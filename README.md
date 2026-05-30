@@ -8,8 +8,7 @@
   <img src="ICON.png" width="300" />
 </p>
 
-# ZenMIDI
-EN ///
+# ZenMIDI, EN ///
 Easy Powerful Program, That Can Modify MIDI!
 Possibilities:
 Easy UI That Can Understand Any People!
@@ -27,7 +26,7 @@ This software is provided "as is" without any warranty. The author assumes no li
 LICENSE
 This Project distributed under the MIT license, you can free use, change and spreads the code, subject to compliance with the terms of the license.
 
-RU /// 
+# RU /// 
 Простая и мощная программа, которая может модифицировать MIDI!
 Возможности:
 Простой пользовательский интерфейс, понятный любому!
