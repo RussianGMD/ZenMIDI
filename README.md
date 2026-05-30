@@ -1,4 +1,5 @@
-<img width="1169" height="319" alt="image" src="https://github.com/user-attachments/assets/2baaa163-5ba5-481b-b0c7-94fe2e242716" />> [!CAUTION]
+<img width="1169" height="319" alt="image" src="https://github.com/user-attachments/assets/2baaa163-5ba5-481b-b0c7-94fe2e242716" />> 
+[!CAUTION]
 > **Caution**
 > EN: The only official place to download ZenMIDI is this GitHub repository. Any other websites offering downloads or claiming to be us are not owned by us and may be unsafe.
 >
