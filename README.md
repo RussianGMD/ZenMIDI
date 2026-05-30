@@ -22,6 +22,7 @@ DISCLAIMER:
 This software is provided "as is" without any warranty. The author assumes no liability for any consequences of using this program or its modified versions. If you use third-party builds (forks) of this project, you are solely responsible for the security of your device. The author guarantees the functionality of only the official version published in this repository.
 LICENSE
 This Project distributed under the MIT license, you can free use, change and spreads the code, subject to compliance with the terms of the license.
+
 RU /// 
 Простая и мощная программа, которая может модифицировать MIDI!
 Возможности:
