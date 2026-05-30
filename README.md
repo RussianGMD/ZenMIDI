@@ -8,11 +8,6 @@
 <p align="center">
   <img src="ICON.png" width="300" />
 </p>
-<p align="center">
-  <a href="https://www.youtube.com/@RussianGamesPlayer">
-    <img src="ICON2.png" width="300" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.youtube.com/@RussianGamesPlayer">
