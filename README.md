@@ -14,6 +14,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/@RussianGamesPlayer">
+    <img src="ICON2.png" width="300" />
+  </a>
+</p>
+
 # ZenMIDI, EN ///
 Easy Powerful Program, That Can Modify MIDI!
 Possibilities:
