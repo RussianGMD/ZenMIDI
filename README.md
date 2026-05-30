@@ -1,4 +1,4 @@
-> [!CAUTION]
+<img width="1169" height="319" alt="image" src="https://github.com/user-attachments/assets/2baaa163-5ba5-481b-b0c7-94fe2e242716" />> [!CAUTION]
 > **Caution**
 > EN: The only official place to download ZenMIDI is this GitHub repository. Any other websites offering downloads or claiming to be us are not owned by us and may be unsafe.
 >
@@ -6,6 +6,11 @@
 > RU: Единственным официальным местом для скачивания ZenMIDI является этот GitHub-репозиторий. Любые другие сайты, предлагающие загрузку программы, не принадлежат нам и могут содержать вредоносное ПО.
 <p align="center">
   <img src="ICON.png" width="300" />
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/@RussianGamesPlayer">
+    <img src="ICON2.png" width="300" />
+  </a>
 </p>
 
 # ZenMIDI, EN ///
